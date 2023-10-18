@@ -17,7 +17,8 @@ function App() {
       {data}
       <button onClick={handleClick}>Click Me</button>
 
-      <Counter /> 
+      <Counter />
+      <h1>My Site is Ready</h1>
       
       
       
