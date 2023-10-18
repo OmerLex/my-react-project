@@ -19,6 +19,7 @@ function App() {
 
       <Counter />
       <h1>My Site is Ready</h1>
+      <h2>This is new update</h2>
       
       
       
